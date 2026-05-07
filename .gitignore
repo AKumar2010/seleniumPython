@@ -1,6 +1,6 @@
 *.pytest_cache
 __pycache__
-chrome/*
+/chrome/*
 .env
 /report.html
 .DS_Store
