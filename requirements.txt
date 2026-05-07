@@ -1,0 +1,43 @@
+Selenium == 4.41.0
+pytest == 9.0.3
+pytest-xdist == 3.2.0
+pytest-html == 3.1.1
+python-dotenv == 0.19.2
+py
+urllib3==2.6.3
+#urllib3==1.25.10
+
+# pytest-cov == 4.0.0
+# coverage == 7.2.7
+# pytest-rerunfailures == 10.2.0
+# pytest-dependency == 0.5.1
+# pytest-ordering == 0.6.0
+# pytest-timeout == 2.0.0
+# pytest-selenium == 2.0.1
+# pytest-asyncio == 0.20.2
+# pytest-mock == 3.10.0
+# pytest-catchlog == 1.2.2
+# pytest-bdd == 4.0.0
+# pytest-cov-append == 0.1.0
+# pytest-cov-xml == 0.1.0
+# pytest-cov-html == 0.1.0
+# pytest-cov-json == 0.1.0
+# pytest-cov-xml-report == 0.1.0
+# pytest-cov-html-report == 0.1.0
+# pytest-cov-json-report == 0.1.0
+# pytest-cov-xml-coverage == 0.1.0
+# pytest-cov-html-coverage == 0.1.0
+# pytest-cov-json-coverage == 0.1.0
+# pytest-cov-xml-append == 0.1.0
+# pytest-cov-html-append == 0.1.0
+# pytest-cov-json-append == 0.1.0
+# pytest-cov-xml-merge == 0.1.0
+# pytest-cov-html-merge == 0.1.0
+# pytest-cov-json-merge == 0.1.0
+# pytest-cov-xml-merge-append == 0.1.0
+# pytest-cov-html-merge-append == 0.1.0
+# pytest-cov-json-merge-append == 0.1.0
+# pytest-cov-xml-merge-append-report == 0.1.0
+# pytest-cov-html-merge-append-report == 0.1.0
+# pytest-cov-json-merge-append-report == 0.1.0
+# pytest-cov-xml-merge-append-coverage == 0.1.0
